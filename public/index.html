@@ -12,9 +12,18 @@
 
     <body>
         <script src="bundle.js"></script>
+        <!-- Google tag (gtag.js) -->
         <script
-            src="https://beamanalytics.b-cdn.net/beam.min.js"
-            data-token="57bdfaa7-2186-4916-b5d3-2bb55451aa89"
-            async></script>
+            async
+            src="https://www.googletagmanager.com/gtag/js?id=G-M3EJ3YMYMY"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag("js", new Date());
+
+            gtag("config", "G-M3EJ3YMYMY");
+        </script>
     </body>
 </html>
