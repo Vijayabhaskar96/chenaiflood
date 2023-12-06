@@ -150,7 +150,6 @@
         }
 
         const link = `${base}?${params.toString()}`;
-
         return link;
     }
 
