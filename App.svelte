@@ -17,7 +17,7 @@
     };
     const checkboxes = {
         nearMe: false,
-        verifiedOnly: true,
+        verifiedOnly: false,
         excludeUnverified: true,
     };
     const alsoSearchFor = {
