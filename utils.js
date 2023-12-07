@@ -1,4 +1,5 @@
 export const POPULAR_CITIES = [
+    "north chennai",
     "velachery",
     "vyasarpadi",
     "madipakkam",
