@@ -1,9 +1,9 @@
 export const POPULAR_CITIES = [
-    "north chennai",
-    "velachery",
-    "vyasarpadi",
-    "madipakkam",
-    "choolaimedu",
+    "tirunelveli",
+    "nellai",
+    "kanyakumari",
+    "thoothukudi",
+    "tenkasi",
 ];
 
 export function capitalCase(string) {

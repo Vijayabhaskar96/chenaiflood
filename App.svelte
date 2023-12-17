@@ -23,7 +23,7 @@
     const alsoSearchFor = {
         milk: {
             keywords: ["milk", "பால்"],
-            checked: false,
+            checked: true,
         },
         water: {
             keywords: ["water", "drinking water"],
@@ -191,7 +191,7 @@
 </script>
 
 <main>
-    <h1>Twitter Search for Chennai Flood</h1>
+    <h1>Twitter Search for Tamil Nadu Flood</h1>
 
     <hr />
 
